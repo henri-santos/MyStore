@@ -1,16 +1,12 @@
 manifestVersion: 1
 id: mystore-stremio
-name: StremioFreedom to Stream
+name: Stremio
 icon: https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs
 category: Media
 version: "1.0.0"
 port: 4000
 description: >-
- Stremio offers a secure, modern and seamless entertainment experience. 
- With its easy-to-use interface and diverse content library, including 4K HDR support, 
- users can enjoy their favorite movies and TV shows across all their devices. 
- And with its commitment to security, Stremio is the ultimate choice for a worry-free, 
- high-quality streaming experience.
+ Stremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.
 
 developer: Rik
 website: https://umbrel.com
@@ -19,9 +15,9 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://imgur.com/a/NMJORN8
-  - https://imgur.com/a/YXXbjQq
-  - https://imgur.com/a/v93t5s1
+  - https://i.imgur.com/04CwXAd.png
+  - https://i.imgur.com/DELxQnT.png
+  - https://i.imgur.com/GOQtTaB.png
 releaseNotes: >-
   Nothig here :)
 dependencies: []
