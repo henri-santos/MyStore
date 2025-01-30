@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: mystore-stremio
 name: Stremio
-icon: https://play-lh.googleusercontent.com/k3489BQdgNeGZKMV8HIOMVZlMyY2EXkiWB0MN6yTl5omfd3_MCSCU75UTXqwh-7j-Qs
+icon: https://d9w5lzh2zawa6.cloudfront.net/y6xsf6%2Fpreview%2F64125825%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D"main_large.png"%3B&response-content-type=image%2Fpng&Expires=1738258298&Signature=Aoqw0gTG6rsVC8zC7ZOOvU0FZekj9uwKSlEmip9ZBCOCtkgUKZ1CQsEEmYJcvSF78pP75tLJy3tnGqlRBsVP4s-psgH~5-QL3pBFWbCYCpkv2ICvFUsiMQkW73JNWprslMvw7A8GPQ9YkURiHG7AZNa6CwTggjOW6GBjfPd9L7P1lBksAk7vUE0Mdde-8CVgQbDAh3qZGs1pAHC8-N2SikRC8SwxyKMnliZmZPZk8~05H4GuHodR0XYGjAIDOHLox73L7y57DYxv75ne-OEx7TYi-E9BugBl8BD8QhPSG554rafdJSU-Z1WvzGgXaMM1CbOCL3nLCUx0ic3UtqSjhw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
 category: Media
 version: "1.0.0"
 port: 4000
